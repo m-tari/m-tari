@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m-tari
-- 👀 I’m interested in computational methods, aerodynamics, nonlinear dynamics and quantitative finance.
+- 👀 I’m interested in computational methods, machine learning, and nonlinear dynamics.
 - 🌱 I’m currently learning quantitative modeling of financial markets using machine learning.
 - 📫 How to reach me: mohammad.tari@gmail.com
 
